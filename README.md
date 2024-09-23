@@ -1,7 +1,7 @@
 ## Laila Jones-Richardson lejonesrichardson@my.waketech.edu
-  My code testing showcase.
-  Where you will find my work.
-  Clicked "File", found the option.
+  <br>My code testing showcase.
+  <br>Where you will find my work.
+  <br>Clicked "File", found the option.
 
 <!--
 **SmileTymeY2K5/SmileTymeY2K5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
